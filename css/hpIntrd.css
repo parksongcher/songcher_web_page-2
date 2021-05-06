@@ -1,0 +1,45 @@
+body {
+  background-image: url("../img/lost.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.game_info h2 {
+  text-align: center;
+  color: rgb(230, 179, 71);
+}
+
+.game_info li {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  list-style: none;
+}
+
+.story h2 {
+  text-align: center;
+  color: rgb(230, 179, 71);
+}
+
+.story li {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  list-style: none;
+}
+
+.key_point h2 {
+  text-align: center;
+  color: rgb(230, 179, 71);
+}
+
+.key_point li {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  list-style: none;
+}
